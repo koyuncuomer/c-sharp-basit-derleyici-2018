@@ -1,0 +1,21 @@
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\bin\Debug\miniDerleyiciV2.exe.config
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\bin\Debug\miniDerleyiciV2.exe
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\bin\Debug\miniDerleyiciV2.pdb
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csprojAssemblyReference.cache
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Form1.resources
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Properties.Resources.resources
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csproj.GenerateResource.cache
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csproj.CoreCompileInputs.cache
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.exe
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.pdb
+C:\Users\OMER\source\repos\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Form2.resources
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\bin\Debug\miniDerleyiciV2.exe.config
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\bin\Debug\miniDerleyiciV2.exe
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csprojAssemblyReference.cache
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Form1.resources
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Form2.resources
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.Properties.Resources.resources
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csproj.GenerateResource.cache
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.csproj.CoreCompileInputs.cache
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.exe
+C:\Users\OMER\Desktop\Ömer Koyuncu\Hesaplama Teorisi\miniDerleyiciV2\miniDerleyiciV2\miniDerleyiciV2\obj\Debug\miniDerleyiciV2.pdb
